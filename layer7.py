@@ -71,7 +71,7 @@ JOIN_TIMEOUT=1.0
 DEFAULT_WORKERS=10
 DEFAULT_SOCKETS=500
 
-THEDON_BANNER = color.RED + '''
+THEDON_BANNER = color.RED + ''' 
 @@@       @@@@@@@@  @@@ @@@  @@@@@@@@  @@@@@@@@  @@@@@@@@  
 @@!       @@!  @@@  @@! !@@  @@!       @@!  @@@       @@!  
 !@!       !@!  @!@  !@! @!!  !@!       !@!  @!@      !@!   
@@ -89,7 +89,7 @@ THEDON_BANNER = color.RED + '''
 - TEAM : 1877                                        -                                  
 - TEAM WEBSITE : https://1877.team/                  -                                                   
 - TEAM CHANNEL : https://t.me/x1877x                 -                                                                                            
--------------------------------------------------------                                                             
+-------------------------------------------------------            
                    ''' + color.END
                                   
 
@@ -134,9 +134,11 @@ USER_AGENT_PARTS = {
     }
 }
 
+####
+# TheDon Class
+####
 
-
-class D1MOD(object):
+class TheDon(object):
 
     # Counters
     counter = [0, 0]
@@ -169,7 +171,7 @@ class D1MOD(object):
 
     def exit(self):
         self.stats()
-        print "Shutting down Layer7"
+        print "Shutting down TheDon"
 
     def __del__(self):
         self.exit()
@@ -585,7 +587,7 @@ def usage():
     print '\t -h, --help\t\tShows this help'
     print
     print
-    print color.OKBLUE + 'D1MOD DDOSER BEST DDOS ATTACK https://github.com/mrxD1MOD/D1MOD-DDOSER  ' + color.END
+    print color.OKBLUE + 'FUCKED BY D1MOD1877' + color.END
     print
     print
     print color.NOTICE + '################################################################################' + color.END
