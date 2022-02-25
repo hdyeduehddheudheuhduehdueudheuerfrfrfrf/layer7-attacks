@@ -587,10 +587,9 @@ def usage():
     print '\t -h, --help\t\tShows this help'
     print
     print
-    print color.OKBLUE + 'FUCKED BY D1MOD1877' + color.END
+    print color.OKBLUE + 'DISCORD SERVER : https://discord.gg/hn7epsef4Z' + color.END
     print
     print
-    print color.NOTICE + '################################################################################' + color.END
     print
     print
 
