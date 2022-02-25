@@ -71,7 +71,7 @@ JOIN_TIMEOUT=1.0
 DEFAULT_WORKERS=10
 DEFAULT_SOCKETS=500
 
-THEDON_BANNER = color.RED + ''' 
+LAYER7_BANNER = color.RED + ''' 
 @@@       @@@@@@@@  @@@ @@@  @@@@@@@@  @@@@@@@@  @@@@@@@@  
 @@!       @@!  @@@  @@! !@@  @@!       @@!  @@@       @@!  
 !@!       !@!  @!@  !@! @!!  !@!       !@!  @!@      !@!   
@@ -570,7 +570,7 @@ def usage():
     print color.NOTICE + '###############################################################################' + color.END
     print
     print
-    print                              THEDON_BANNER
+    print                              LAYER7_BANNER
     print
     print  color.CYAN + 'CREATOR : D1MOD1877' + color.END
     print
