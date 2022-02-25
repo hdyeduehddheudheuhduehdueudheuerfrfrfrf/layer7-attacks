@@ -171,7 +171,7 @@ class TheDon(object):
 
     def exit(self):
         self.stats()
-        print "Shutting down TheDon"
+        print "Shutting down layer7"
 
     def __del__(self):
         self.exit()
