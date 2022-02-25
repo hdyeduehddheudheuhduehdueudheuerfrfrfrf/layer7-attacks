@@ -570,9 +570,9 @@ def usage():
     print
     print                              THEDON_BANNER
     print
-    print  color.CYAN + ' Brought to you by the AnonMafia. Follow us on twitter @YourAnonMafia ' + color.END
+    print  color.CYAN + 'CREATOR : D1MOD1877' + color.END
     print
-    print  color.OKBLUE + ' USAGE: python thedon.py <url> [OPTIONS]' + color.END
+    print  color.OKBLUE + ' USAGE: python2 layer7.py <url> [OPTIONS]' + color.END
     print
     print ' OPTIONS:'
     print '\t Flag\t\t\tDescription\t\t\t\t\t\tDefault'
@@ -585,7 +585,7 @@ def usage():
     print '\t -h, --help\t\tShows this help'
     print
     print
-    print color.OKBLUE + ' Have fun fucking shit up! ' + color.END
+    print color.OKBLUE + 'D1MOD DDOSER BEST DDOS ATTACK https://github.com/mrxD1MOD/D1MOD-DDOSER  ' + color.END
     print
     print
     print color.NOTICE + '################################################################################' + color.END
